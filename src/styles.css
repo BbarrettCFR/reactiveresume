@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+}
+@keyframes example {
+  from {
+    color: white;
+  }
+  to {
+    color: black;
+  }
+}
+button {
+  background-color: white;
+  color: black;
+  border-radius: 15px;
+  animation: example;
+  animation-duration: 6s;
+  opacity: 0.7;
+  border: white solid 0.5px;
+  font-family: "Roboto Mono", monospace;
+}
+
+button:hover {
+  opacity: 10;
+  border-radius: 30px;
+}

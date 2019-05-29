@@ -1,2 +1,0 @@
-# reactiveresume
-Created with CodeSandbox
