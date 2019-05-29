@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import HeaderInformation from "./Header/HeaderInformation";
 import "./styles.css";
+
 class AppContainer extends Component {
   constructor(props) {
     super(props);
